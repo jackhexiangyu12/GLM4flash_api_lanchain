@@ -1,6 +1,6 @@
 from LLM import GLMFlash_LLM
 
-glm_flash_llm = GLMFlash_LLM(api_key="066aef27864aa98ca62db470ddf295c4.guas9bXU5pQRwyNE")
+glm_flash_llm = GLMFlash_LLM(api_key="ffaa63c37c79d11634ac106e80164409.dkDfrKthm4hDoEOi")
 
 while True:
     user_input = input("在命令行中提问（输入'1'退出）: ")
